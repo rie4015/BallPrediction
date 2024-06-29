@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9af77337-56f2-43c0-aa03-6ef92af722bf" name="Changes" comment="origin">
-      <change afterPath="$PROJECT_DIR$/11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BallPyBullet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/туц.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BallPyBullet.py" beforeDir="false" afterPath="$PROJECT_DIR$/BallPyBullet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.11.executor": "Run",
+    "Python.BallPyBullet.executor": "Run",
     "Python.dataset.executor": "Run",
     "Python.main.executor": "Run",
     "Python.test.executor": "Run",
@@ -96,11 +96,38 @@
       <option name="project" value="LOCAL" />
       <updated>1719408260894</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="origin">
+      <option name="closed" value="true" />
+      <created>1719585834720</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719585834720</updated>
+    </task>
+    <task id="LOCAL-00003" summary="origin">
+      <option name="closed" value="true" />
+      <created>1719614150981</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719614150981</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="origin" />
     <option name="LAST_COMMIT_MESSAGE" value="origin" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11.py</url>
+          <line>174</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
